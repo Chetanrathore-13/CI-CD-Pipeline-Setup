@@ -1,0 +1,17 @@
+{
+  "name": "ci-and-cd-pipeline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chetanrathore/ci-and-cd-pipeline.git",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Chetan Rathore",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
